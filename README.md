@@ -3,19 +3,9 @@
 <div>
 <h2 align="center">Hi there 👋. I am Mag :)</h2>
 
-<h4>Frontend developer based in Seoul, South Korea. </h4>
-
-  <img align="center" style="margin:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeGrandMAG&layout=compact&theme=react&count_private=false" /> 
-<div align="center" style="display:flex; flex-direction:row; ">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=LeGrandMAG&count_private=true&show_icons=true&theme=radical" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=LeGrandMAG&theme=vision-friendly-dark" />
-  </div>
-    
+<h4>Frontend developer based in Seoul, South Korea. </h4>    
       
 </div>
-
-<img height="200" align="center" src="https://activity-graph.herokuapp.com/graph?username=LeGrandMAG&theme=monokai" />  
 
 
 ## Education
@@ -61,21 +51,25 @@
 ## Hosting
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-## Personal Projects
-  - Meme Generator:
-  A project that allows the user to generate meme quickly. The project is using an API with about 100 different meme images that the user can use. The User will be able to add top and bottom text to the image and save the image or share it on social media.
-  - Tenzi Game
-  - Wiki Media
-  - Price Calculator
+
 
 
 ## Projects
 
-- WEPO's cross-platform mobile application:
-- Drum machine: 
-- Tweets Readability:
+  - **Meme Generator**:
+  A project that allows the user to generate meme quickly. The project is using an API with about 100 different meme images that the user can use. The User will be able to add top and bottom text to the image and save the image or share it on social media.
+  
+  - [**Tenzi Game**](https://magmukendi.me/TenziGame): A web application
+  - **WEPO App**: A cross-platform mobile application
+  - **Wiki Media**: A wikipedia like web application built using Django and Django, HTML & CSS. Part of the cs50W projects.
+  - **Price Calculator**: A web application to calculate the price of our products.
+  - **Drum machine**: 
+  - **Tweets Readability**: Web application to calculate the readability of a tweet.
+
+
+
 - Meme Generator:
-- Price Calculator:
+
 
 ## Open Source Contributions
 - Developer Quiz Project by freeCodeCamp
