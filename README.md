@@ -73,13 +73,14 @@
 
 ## Open Source Contributions
 - Developer Quiz Project by freeCodeCamp
-- 
+- Hacktoberfest Korea
 ### Certifications
 
 - Responsive Web Design by freeCodeCamp
 - Javascripts Algorithms and Data Structures by freeCodeCamp
 - CS50x by Harvard University
 - Web Development with Python and Javascript
+- Unity Essentials
 
 --------------------------------
 
