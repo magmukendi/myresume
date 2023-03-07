@@ -11,6 +11,10 @@
 ## Education
 - ### Hankuk University of Foreign Studies (2018 - 2022)
 
+## Work Experience
+
+- Softwarre developer Intern at Schaeffler
+      -     Building the metaverse
 #### Major: Business Administration
 #### Minor: Computer Electronic Systems
 ##### Relevant Courses :
@@ -74,6 +78,8 @@
 ## Open Source Contributions
 - Developer Quiz Project by freeCodeCamp
 - Hacktoberfest Korea
+- Microsoft Azure's remote-rendering
+
 ### Certifications
 
 - Responsive Web Design by freeCodeCamp
