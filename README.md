@@ -64,21 +64,20 @@
   A project that allows the user to generate meme quickly. The project is using an API with about 100 different meme images that the user can use. The User will be able to add top and bottom text to the image and save the image or share it on social media.
   
   - [**Tenzi Game**](https://magmukendi.me/Tenzi-Game): A web application
-  - **WEPO App**: A cross-platform mobile application
-  - **Wiki Media**: A wikipedia like web application built using Django and Django, HTML & CSS. Part of the cs50W projects.
-  - **Price Calculator**: A web application to calculate the price of our products.
-  - **Drum machine**: 
-  - **Tweets Readability**: Web application to calculate the readability of a tweet.
-
-
-
-- Meme Generator:
+  - [**WEPO App**](LINK): A cross-platform mobile application. currently in Beta Test with 300 users
+  - [**Wiki Media**](link): A wikipedia like web application built using Django and Django, HTML & CSS. Part of the cs50W projects.
+  - [**Price Calculator for WEPO**]: A web application to calculate and compare the price of second-hand product in Korea.
+  - [**Drum machine**](LINK): 
+  - [**Tweets Readability**](LINK): Web application to calculate the readability of a tweet.
+  - [**Meme Generator**](LINK): A web application that generate Meme instantly.
 
 
 ## Open Source Contributions
-- Developer Quiz Project by freeCodeCamp
+- Azure Remote Rendering by Microsoft: Provide a bug fix fix for the API endpoint and the parser for the url from the Json file.
+- Developer Quiz Project by freeCodeCamp: Styled
 - Hacktoberfest Korea
-- Microsoft Azure's remote-rendering
+- QuizApp by congoCRUD
+
 
 ### Certifications
 
